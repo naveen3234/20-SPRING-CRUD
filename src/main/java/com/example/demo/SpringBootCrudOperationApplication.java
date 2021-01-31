@@ -13,6 +13,7 @@ public class SpringBootCrudOperationApplication {
 		int y = 20;
 		int z = 30;
 		int p = 40;
+		int q= 560;
 	}
 
 }
