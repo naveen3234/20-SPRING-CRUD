@@ -10,6 +10,7 @@ public class SpringBootCrudOperationApplication {
 		SpringApplication.run(SpringBootCrudOperationApplication.class, args);
 		
 		int x = 10;
+		int y = 20;
 	}
 
 }
